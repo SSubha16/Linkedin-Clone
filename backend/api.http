@@ -1,0 +1,61 @@
+POST http://localhost:9090/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "username" : "abcd" ,
+    "password" : "abcd" ,
+    "email" : "abcd@mail.in" ,
+    "name" : "abcd"
+
+}
+
+###
+
+POST http://localhost:9090/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email" : "abcd@mail.in" ,
+     "password" : "abcd" 
+    
+}
+
+###
+
+GET http://localhost:9090/get_user_and_profile 
+Content-Type: application/json
+
+{
+    "token": "ab44158786c3b4756e3341be175c3e6be0690aabdf46d08998fd688a463109e7" 
+    
+}
+
+###
+POST http://localhost:9090/update_profile_data 
+Content-Type: application/json
+
+{
+    "token": "0b19898a0c4dd44af9ae45b29216ed598f0f216be3eea83f794586c72f321def",
+    "bio" : "Hey , I'm from Kolkata , I'm aspiring Web Developer . I'm a student at APNA COLLEGE",
+    "currentPost" : "SDE",
+    "pastWork" : [
+        {
+            "company" : "Google" ,
+            "position" : "SDE",
+            "years" : "1+"
+        }
+    ],
+    "education" : [
+        {
+            "school" : "IIT Kanpur",
+            "degree" : "B.Tech",
+            "fieldOfStudy" : "2019-2023"
+        }
+    ]
+
+}
+
+###
+
+GET  http://localhost:9090/user/get_all_users
+Content-Type: application/json
