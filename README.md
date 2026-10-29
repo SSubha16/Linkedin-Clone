@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1000x300/0A66C2/FFFFFF?text=LinkedIn+Clone&font=Montserrat" alt="LinkedIn Clone Banner" width="100%">
+  <img src="./assets/linkedin-banner.png" alt="LinkedIn Clone Banner" width="100%">
 </div>
 
 <h1 align="center">💼 LinkedIn Clone</h1>
@@ -51,12 +51,12 @@ As an AI Engineer, building this architecture provided hands-on experience with 
 
 ### Main Feed & Networking Dashboard
 <div align="center">
-  <img src="https://placehold.co/800x450/F3F2EF/000000?text=Main+Feed+UI+Screenshot&font=Montserrat" alt="Feed UI Mockup" width="100%">
+  <img src="./assets/feed-mockup.png" alt="Feed UI Mockup" width="100%">
 </div>
 
 ### Professional Profile Page
 <div align="center">
-  <img src="https://placehold.co/800x450/F3F2EF/000000?text=User+Profile+UI+Screenshot&font=Montserrat" alt="Profile UI Mockup" width="100%">
+  <img src="./assets/profile-mockup.png" alt="Profile UI Mockup" width="100%">
 </div>
 
 ## 🚀 Installation & Local Setup
