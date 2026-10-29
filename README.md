@@ -37,12 +37,12 @@ As an AI Engineer, building this architecture provided hands-on experience with 
 
 ### Main Feed & Networking Dashboard
 <div align="center">
-  <img src="Screenshot (204).png" alt="Main Feed UI Screenshot" width="100%">
+  <img src="./assets/feed-mockup.png" alt="Main Feed & Networking Dashboard" width="100%">
 </div>
 
 ### Professional Profile Page
 <div align="center">
-  <img src="Screenshot (205).png" alt="User Profile UI Screenshot" width="100%">
+  <img src="./assets/profile-mockup.png" alt="Professional Profile Page" width="100%">
 </div>
 
 ## 🚀 Quick Start
