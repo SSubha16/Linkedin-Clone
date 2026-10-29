@@ -56,3 +56,14 @@ As an AI Engineer, building this architecture provided hands-on experience with 
 
 ### Professional Profile Page
 <div align="center">
+  <img src="https://placehold.co/800x450/F3F2EF/000000?text=User+Profile+UI+Screenshot&font=Montserrat" alt="Profile UI Mockup" width="100%">
+</div>
+
+## 🚀 Installation & Local Setup
+
+Want to run this project locally? Follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/SSubha16/Linkedin-Clone.git](https://github.com/SSubha16/Linkedin-Clone.git)
+   cd Linkedin-Clone
